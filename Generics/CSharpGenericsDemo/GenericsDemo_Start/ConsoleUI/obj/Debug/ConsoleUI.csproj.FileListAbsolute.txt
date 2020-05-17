@@ -1,0 +1,7 @@
+C:\Code\VSCode\Tim\Generics\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Code\VSCode\Tim\Generics\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Code\VSCode\Tim\Generics\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Code\VSCode\Tim\Generics\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Code\VSCode\Tim\Generics\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Code\VSCode\Tim\Generics\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Code\VSCode\Tim\Generics\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.pdb
